@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="LGPL-3.0-only"
+
+[[mods]]
+modId="origins"
+version="${file.jarVersion}"
+displayName="Origins"
+authors="Apace100"
+credits="See NOTICE.md for credits"
+description='''
+Origins, ported to NeoForge 1.21.1.
+'''
